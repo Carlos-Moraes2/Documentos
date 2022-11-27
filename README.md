@@ -2,7 +2,7 @@
 
 🎮 Meus games e streamers favoritos, site feito durante a NLW Edição 09 - eSports!
 
-<strong>Veja o site <a href="https://poveii.github.io/game-hub/" target="_blank" rel="noopener norefferrer">aqui</a></strong>
+<strong>Veja o site <a href="Inserir aqui" target="_blank" rel="noopener norefferrer">aqui</a></strong>
 
 ## Layout
 
