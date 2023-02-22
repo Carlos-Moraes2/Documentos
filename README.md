@@ -11,7 +11,7 @@
       Projeto do Figma: <a href="https://www.figma.com/community/file/1150897317533332617" target="_blank" rel="noopener norefferrer">aqui</a>
   </strong>
 
-## Tecnologias
+## Tecnologia
 
 - <strong>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Ícone do HTML5" style="width: 18px;" /> 
